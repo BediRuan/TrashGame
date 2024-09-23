@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Trash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB05D2-B0C3-64ED-C273-29BFD6609B0E}|Assembly-CSharp.csproj|c:\\users\\hp\\trash\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB05D2-B0C3-64ED-C273-29BFD6609B0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FB05D2-B0C3-64ED-C273-29BFD6609B0E}|Assembly-CSharp.csproj|c:\\users\\hp\\trash\\assets\\scripts\\trashtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FB05D2-B0C3-64ED-C273-29BFD6609B0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Trash\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\hp\\Trash\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:48:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrashType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Trash\\Assets\\Scripts\\TrashType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashType.cs",
+              "ToolTip": "C:\\Users\\hp\\Trash\\Assets\\Scripts\\TrashType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrashType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:09:20.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
